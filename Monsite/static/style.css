@@ -1,0 +1,31 @@
+.header{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.paraph1{
+    color: blue;
+}
+
+
+.item-gallery {
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    background-color: #decd90;
+}
+
+.gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.gallery {
+    color: blueviolet;
+}
+
+.item-gallery{
+    color: blueviolet;
+}
