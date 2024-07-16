@@ -21,3 +21,11 @@
     flex-wrap: wrap;
     justify-content: space-around;
 }
+
+.gallery {
+    color: blueviolet;
+}
+
+.item-gallery{
+    color: blueviolet;
+}
